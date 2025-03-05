@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 	Array(
 		"Избранное", 
-		"/buyer_cabinet/selected.php", 
+		"/buyer_cabinet/selected/", 
 		Array(), 
 		Array(), 
 		"" 

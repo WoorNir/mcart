@@ -1,5 +1,11 @@
-<p>© 2001-2014 «Название компании»</p>
- 
-<p>Проспект Мира, 35, строение 2, офис 34</p>
- 
-<p><b>Телефон: (495) 212-85-06</b></p>
+<p>
+	<?$APPLICATION->IncludeComponent(
+	"bitrix:main.include",
+	"",
+	Array(
+		"AREA_FILE_SHOW" => "page",
+		"AREA_FILE_SUFFIX" => "inc",
+		"EDIT_TEMPLATE" => ""
+	)
+);?>
+</p>
