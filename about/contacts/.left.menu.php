@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 	Array(
 		"Обратная связь", 
-		"/about/contacts/feedback", 
+		"/about/contacts/feedback.php", 
 		Array(), 
 		Array(), 
 		"" 
